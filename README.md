@@ -3,7 +3,7 @@
 The purpose of this project is to collect, work with, and clean a data set.  The goal is to prepare tidy data that can be used for later analysis.
 
 The data set is from a Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while 
-carrying a waist-mounted smartphone with embedded inertial sensors.  For more information, please see [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones].
+carrying a waist-mounted smartphone with embedded inertial sensors.  For more information, please see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 The code implements the five project requirements:
 
