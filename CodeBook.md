@@ -18,7 +18,7 @@ The algorithm for producing the final, tidy data set as per the project requirem
 
 In the final, tidy data set there is exactly one row per subject per activity (30 subjects times 6 activities).  We arrived at only 180 rows (from the original 10,299) as per the project requirement of providing an average of each variable for each activity and each subject.
 
-This extract shows the first few rows and the first few columns of the final, tidy data set (provide in full in file FinalData.txt):
+This extract shows the first few rows and the first few columns of the final, tidy data set (which the code outputs in full to a file called FinalData.txt):
 
 | subjectId | activityName | tBodyAcc-mean()-X | tBodyAcc-std()-X | tBodyAcc-mean()-Y | tBodyAcc-std()-Y 
 | --- | --- | --- | --- | --- | ---  
