@@ -10,7 +10,7 @@ The source data for the actual readings of activities are divided into train and
 * Activities: y_train.txt and y_test.txt
 * Subjects: subject_train.txt and subject_test.txt
 
-The variables in the readings files are descibed in a source file called features.txt.  For easy reference, we list all 561 of them in the file ReadingsVariables.md in this repository.
+The variables in the readings files are descibed in a source file called features_info.txt.  For easy reference, we list all 561 of them in the file ReadingsVariables.md in this repository.
 
 In the Activities file mentioned above, activities are indicated using numeric identifiers between 1 and 6.  The relationship between the identifiers and the activity names is given by the source file activity_labels.txt.  There is no such file for the thirty subjects in the study as they are referred to only by numbers between 1 and 30.
 
