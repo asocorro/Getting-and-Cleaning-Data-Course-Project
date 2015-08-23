@@ -18,8 +18,6 @@
 # establish the correct working directory before running this script.
 # setwd("<Folder Path>#)
 
-# setwd("O:/Personal/Coursera/3- Getting and Cleaning Data/Course Project")
-
 # before getting into the project requirements, we load the necessary libraries and data sets
 
 # load the dplyr library
